@@ -30,3 +30,4 @@ cachesolve <- function(x, ...) {
         x$setmean(inv)
         inv
 }
+ 
